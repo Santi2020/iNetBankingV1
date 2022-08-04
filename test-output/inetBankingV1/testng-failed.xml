@@ -14,13 +14,13 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.inetbankingv1.testcases.TC_Login_001 -->
-      <class name="com.inetbankingv1.testcases.TC_LoginDDT_002">
+      <class name="com.inetbankingv1.testcases.TC_AddNewCustomerTest_003">
         <methods>
-          <include name="loginDDT" invocation-numbers="0 1 3 4"/>
+          <include name="addNewCustomer"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.inetbankingv1.testcases.TC_LoginDDT_002 -->
+      </class> <!-- com.inetbankingv1.testcases.TC_AddNewCustomerTest_003 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [inetBankingV1] -->
